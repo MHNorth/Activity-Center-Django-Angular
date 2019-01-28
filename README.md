@@ -1,6 +1,6 @@
 # Django-Angular Activity Center Application
 
-Django-Angular Activity Center is a full stack web application that makes use of various features and user events.  Client and server side frameworks, APIs, cloud and container-based technologies have been integrated within this app.
+Django-Angular Activity Center is a full stack web application that makes use of various features and user events.  Client and server side frameworks, APIs, Jenkins CI/CD, cloud and container-based technologies have been integrated within this app.
 
 ## Installation
 
@@ -14,6 +14,7 @@ For more support please visit the following website documentation links:
 * [Angular Documentation](https://angular.io/docs)
 * [Docker Documentation](https://docs.docker.com/)
 * [Django Rest Framework Documentation](https://www.django-rest-framework.org/)
+* [Jenkins Documentation](https://www.jenkins.io)
 
 
 ## Contributing
